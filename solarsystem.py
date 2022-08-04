@@ -1,8 +1,9 @@
+import sys
+sys.path.insert(0, 'Modules')
 import Planets
 import DistanceFromSun
 import funfacts
-import sys
-sys.path.insert(0, 'Modules')
+
 
 
 
