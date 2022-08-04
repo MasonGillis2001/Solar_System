@@ -41,7 +41,8 @@ def energy_produced():
     print(energy, 'Octillion joules')
     return
 
-choices()
+if __name__ == "__main__":
+    choices()
 
 
 
